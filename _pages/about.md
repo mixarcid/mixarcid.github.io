@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student at UNC's Eschelman School of Pharmacy. By day, I apply novel ML algorithms to drug discovery. By night, I sleep.
+I'm a PhD student at UNC's Eshelman School of Pharmacy. By day, I apply novel ML algorithms to drug discovery. By night, I sleep.
 
 Occasionally I write blog posts, usually about solving weird software issues.
 
