@@ -5,19 +5,15 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_new.jpg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student at UNC's Eshelman School of Pharmacy. By day, I apply novel ML algorithms to drug discovery. By night, I sleep.
+I'm a PhD student at UNC's Eshelman School of Pharmacy. Before, I studied chemistry at Stanford and worked as the Software Lead at [Quilter](https://www.quilter.ai).
 
-Occasionally I write blog posts, usually about solving weird software issues.
+I'm now researching novel AI methods to accelerate structure-based drug discovery. A major bottleneck in this field is the lack of high-quality training data. My research focuses on creatively using the available data to maximize model performance.
 
-If you want to chat about ML, drugs, or just about anything, please reach out! Email me at [{{ site.email }}](mailto:{{ site.email }}).
-
-
-
-**Warning:** This website contains chemicals known to the State of California to cause cancer, birth defects, or other reproductive harm.
+If you'd like to talk about ML, drugs, or just about anything, please reach out! [Email me](mixarcid@unc.edu) or find me on [Twitter](https://twitter.com/brocidiacono).

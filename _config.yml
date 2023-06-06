@@ -57,7 +57,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: mixarcid # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: brocidiacono # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: michael-brocidiacono-0ab5aa149 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -82,8 +82,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_name: writing # blog_name will be displayed in your blog page
+blog_nav_title: writing # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
