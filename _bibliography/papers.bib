@@ -1,24 +1,6 @@
 ---
 ---
 
-
-@misc{arcidiacono_molucinate_2021,
-	title = {{MOLUCINATE}: A Generative Model for Molecules in 3D Space},
-	url = {http://arxiv.org/abs/2109.15308},
-	doi = {10.48550/arXiv.2109.15308},
-	shorttitle = {{MOLUCINATE}},
-	abstract = {Recent advances in machine learning have enabled generative models for both optimization and de novo generation of drug candidates with desired properties. Previous generative models have focused on producing {SMILES} strings or 2D molecular graphs, while attempts at producing molecules in 3D have focused on reinforcement learning ({RL}), distance matrices, and pure atom density grids. Here we present {MOLUCINATE} ({MOLecUlar} {ConvolutIoNal} {generATive} {modEl}), a novel architecture that simultaneously generates topological and 3D atom position information. We demonstrate the utility of this method by using it to optimize molecules for desired radius of gyration. In the future, this model can be used for more useful optimization such as binding affinity for a protein target.},
-	number = {{arXiv}:2109.15308},
-	publisher = {{arXiv}},
-	author = {Arcidiacono, Michael and Koes, David Ryan},
-	urldate = {2022-11-28},
-	date = {2021-11-23},
-	year = {2021},
-	eprinttype = {arxiv},
-	eprint = {2109.15308 [q-bio]},
-	keywords = {Quantitative Biology - Quantitative Methods},
-}
-
 @misc{brocidiacono_plantain_2023,
 	title = {{PLANTAIN}: Diffusion-inspired Pose Score Minimization for Fast and Accurate Molecular Docking},
 	url = {http://arxiv.org/abs/2307.12090},
@@ -36,6 +18,20 @@
 	keywords = {Quantitative Biology - Quantitative Methods},
 }
 
+@misc{dieckhaus_transfer_2023,
+	title = {Transfer learning to leverage larger datasets for improved prediction of protein stability changes},
+	rights = {© 2023, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution-{NoDerivs} 4.0 International), {CC} {BY}-{ND} 4.0, as described at http://creativecommons.org/licenses/by-nd/4.0/},
+	url = {https://www.biorxiv.org/content/10.1101/2023.07.27.550881v1},
+	doi = {10.1101/2023.07.27.550881},
+	abstract = {Amino acid mutations that lower a protein’s thermodynamic stability are implicated in numerous diseases, and engineered proteins with enhanced stability are important in research and medicine. Computational methods for predicting how mutations perturb protein stability are therefore of great interest. Despite recent advancements in protein design using deep learning, in silico prediction of stability changes has remained challenging, in part due to a lack of large, high-quality training datasets for model development. Here we introduce {ThermoMPNN}, a deep neural network trained to predict stability changes for protein point mutations given an initial structure. In doing so, we demonstrate the utility of a newly released mega-scale stability dataset for training a robust stability model. We also employ transfer learning to leverage a second, larger dataset by using learned features extracted from a deep neural network trained to predict a protein’s amino acid sequence given its three-dimensional structure. We show that our method achieves competitive performance on established benchmark datasets using a lightweight model architecture that allows for rapid, scalable predictions. Finally, we make {ThermoMPNN} readily available as a tool for stability prediction and design.},
+	publisher = {{bioRxiv}},
+	author = {Dieckhaus, Henry and Brocidiacono, Michael and Randolph, Nicholas and Kuhlman, Brian},
+	urldate = {2023-08-14},
+	date = {2023-07-30},
+	langid = {english},
+	year={2023},
+}
+
 @article{brocidiacono_bigbind_2022,
 	title = {{BigBind}: Learning from Nonstructural Data for Structure-Based Virtual Screening},
 	url = {https://chemrxiv.org/engage/chemrxiv/article-details/637e3b5094ff6027063cc956},
@@ -47,4 +43,21 @@
 	date = {2022-11-28},
 	year = {2022},
 	langid = {english},
+}
+
+@misc{arcidiacono_molucinate_2021,
+	title = {{MOLUCINATE}: A Generative Model for Molecules in 3D Space},
+	url = {http://arxiv.org/abs/2109.15308},
+	doi = {10.48550/arXiv.2109.15308},
+	shorttitle = {{MOLUCINATE}},
+	abstract = {Recent advances in machine learning have enabled generative models for both optimization and de novo generation of drug candidates with desired properties. Previous generative models have focused on producing {SMILES} strings or 2D molecular graphs, while attempts at producing molecules in 3D have focused on reinforcement learning ({RL}), distance matrices, and pure atom density grids. Here we present {MOLUCINATE} ({MOLecUlar} {ConvolutIoNal} {generATive} {modEl}), a novel architecture that simultaneously generates topological and 3D atom position information. We demonstrate the utility of this method by using it to optimize molecules for desired radius of gyration. In the future, this model can be used for more useful optimization such as binding affinity for a protein target.},
+	number = {{arXiv}:2109.15308},
+	publisher = {{arXiv}},
+	author = {Arcidiacono, Michael and Koes, David Ryan},
+	urldate = {2022-11-28},
+	date = {2021-11-23},
+	year = {2021},
+	eprinttype = {arxiv},
+	eprint = {2109.15308 [q-bio]},
+	keywords = {Quantitative Biology - Quantitative Methods},
 }
