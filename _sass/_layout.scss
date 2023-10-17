@@ -33,18 +33,34 @@ body.sticky-bottom-footer {
   }
 }
 
-// TODO: redefine content layout.
-
 
 /******************************************************************************
- * Publications
+ * Drug Discovery Fireside Chats
  ******************************************************************************/
 
-// TODO: redefine publications layout.
+.chat-content {
+  margin-top: 2em;
+}
 
+.chat-bio {
+  margin-top: 1em;
+}
 
-/*****************************************************************************
-* Projects
-*****************************************************************************/
+.chat-overtitle {
+  font-style: italic;
+  color: #7f7f7f;
+}
 
-// TODO: redefine projects layout.
+.chat-date {
+  font-size: 1.2em;
+  margin-bottom: 0px;
+}
+
+.chat-links {
+  font-size: 1.0em;
+  margin-bottom: 0px;
+}
+
+.chat-desc {
+  margin-top: 1em;
+}

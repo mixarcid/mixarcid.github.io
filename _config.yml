@@ -123,7 +123,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 # blog_name: writing # blog_name will be displayed in your blog page
-blog_nav_title: writing # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: Writing # your blog must have a title for it to be displayed in the nav bar
 # blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -173,6 +173,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  chats:
+    output: true
+    permalink: /dd_fireside/:path/
 
 announcements:
   enabled: true
@@ -400,3 +403,5 @@ mdb:
 medium_zoom:
   version: "1.0.8"
   integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
+
+timezone: America/New_York
