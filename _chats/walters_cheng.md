@@ -23,4 +23,4 @@ rsvp: https://forms.gle/exUCCgV7ScqihWkZ6
         </div>
     </div>
 </div>
-<p class="chat-desc">Join us for a panel discussion with two distinguished computational chemists from industry. They both have a ton of experience with real-word durg discovery -- come with any questions you have!</p>
+<p class="chat-desc">Join us for a panel discussion with two distinguished computational chemists from industry. They both have a ton of experience with real-word drug discovery -- come with any questions you have!</p>
