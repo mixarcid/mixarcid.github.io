@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-redirect_to: assets/pdf/bayesbind.pdf
 
 profile:
   align: right
