@@ -13,7 +13,7 @@ Each event is a casual discussion with different veterans of the drug discovery 
 
 <div class="post">
 
-  <h2 class="chat-overtitle" style="margin-bottom: -0.5em;">Upcoming events</h2>
+  <h2 class="chat-overtitle" style="margin-bottom: -0.5em;">Past events</h2>
 
   <ul class="post-list">
     {% for chat in site.chats %}
